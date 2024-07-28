@@ -9,7 +9,7 @@ There are two sub-directories, one for each task: a backend utility and a fronte
 To clone this repository
 ```sh
 git clone
-cd firstcircle-test/
+cd fc-test/
 ```
 
 Run the backend task
@@ -19,7 +19,7 @@ node activity -n 10 -f console
 
 Run the frontend task
 ```sh
-cd firstcircle-test/frontend-task
+cd fc-test/frontend-task
 npm install
 node node_modules/cors-anywhere/server.js --port 8080 --disable-rate-limits"
 live-server
