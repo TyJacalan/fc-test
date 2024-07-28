@@ -4,7 +4,7 @@
 
 These tasks are designed to evaluate the ability to build a backend utility that interacts with an API and a frontend application to display and manipulate the data.
 
-There are two sub-directories, one for each task: a backend utility and a frontend utility. Each directory has their own usage guidelines.
+There are two sub-directories, one for each task: a backend utility and a frontend utility. Each directory includes a README file with detailed usage information.
 
 To clone this repository
 ```sh
